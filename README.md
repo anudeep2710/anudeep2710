@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+ Hi, I’m anudeepbatchu you can call me anudeep 👀 I’m currently working on flutter and dart 🌱 I’m currently learning backend nodejs expressjs and mongodb...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnudeepBatchu) 
