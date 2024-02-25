@@ -1,5 +1,7 @@
 # 💫 About Me:
  Hi, I’m anudeepbatchu you can call me anudeep 👀 I’m currently working on flutter and dart 🌱 I’m currently learning backend nodejs expressjs and mongodb...
+# 💫 MY protofolio:
+https://anudeep2710.github.io/anudeep.github.io/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnudeepBatchu) 
