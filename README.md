@@ -1,5 +1,6 @@
 # 💫 About Me:
- Hi, I’m anudeepbatchu you can call me anudeep 👀 I’m currently working on flutter and dart 🌱 I’m currently learning backend nodejs expressjs and mongodb...
+ Hi, I’m anudeepbatchu you can call me anudeep
+passionate computer science student 
 # 💫 MY protofolio:
 https://anudeep2710.github.io/anudeep.github.io/
 
