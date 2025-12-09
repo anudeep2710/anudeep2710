@@ -2,8 +2,7 @@
  Hi, I’m anudeepbatchu you can call me anudeep
 passionate computer science student 
 # 💫 MY protofolio:
-https://anudeep2710.github.io/anudeep.github.io/
-
+https://anudeep-dun.vercel.app/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnudeepBatchu) 
 
